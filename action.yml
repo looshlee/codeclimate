@@ -1,4 +1,4 @@
-name: 'Code Climate Coverage Action'
+name: 'Code Climate Coverage'
 description: 'Publish code coverage to Code Climate'
 author: 'GP <me@httgp.com>'
 branding:
